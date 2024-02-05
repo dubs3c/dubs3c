@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I am dubs3c</h2>
 <h3 align="center">A passionate security engineer that enjoys hacking and building software projects</h3>
 
-- 🔭 I’m currently working on: **A bunch of code**
+- 🔭 I’m currently working on: **Red Team Tooling and personal projects**
 - 🌱 I’m currently learning: **AI**
 - 👯 I’m looking to collaborate on: **tooling, exploits, bug bounty, gaming, programming, projects** 😄 
 
